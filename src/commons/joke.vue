@@ -3,6 +3,7 @@
 		<div 
 			v-for="item in this.jokes"
 			tag="div"
+			v-if=""
 			class="joke"
 			> 
 					<!-- 段子头部 -->
